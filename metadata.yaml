@@ -1,0 +1,30 @@
+_repo: The-Founder-of-New-France--A-Chronicle-of-Champlain_30257
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colby, Charles W. (Charles William)
+    alias: Colby, Charles William
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '1402'
+    url: http://www.gutenberg.org/2009/agents/1402
+description: With Illustrations. See also PG#4213 text only version.
+gutenberg_issued: '2009-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30257'
+  lccn: '15019297'
+language: en
+publication_note: 'Toronto: Glasgow, Brook & Company, 1915'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Champlain, Samuel de, 1567-1635'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+title: 'The Founder of New France: A Chronicle of Champlain'
+url: http://www.gutenberg.org/ebooks/30257
