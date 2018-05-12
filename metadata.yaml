@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1402'
     url: http://www.gutenberg.org/2009/agents/1402
 description: With Illustrations. See also PG#4213 text only version.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30257#The-Founder-of-New-France--A-Chronicle-of-Champlain
 gutenberg_issued: '2009-10-15'
 gutenberg_type: Text
 identifiers:
